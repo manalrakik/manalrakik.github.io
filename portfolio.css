@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:black;
+}
+p{
+    color: aliceblue;
+}
+h2,h3{
+    color: aliceblue;
+}
+title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+small{
+    color: aliceblue;
+}
+p{
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: aliceblue;
+}
+.html{
+    border: 1px solid white;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: rgba(128,128,128,0.539)
+    
+}
+span.name{
+    color: #00564d;
+    font-size: 38px;
+}
+.projects{
+    border: 1px solid white;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: rgb(34, 32, 32);
+}
+.pied-formulaire{
+    margin-top: 10px;
+    /* background-color: #00564d;  */
+    color: white;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
